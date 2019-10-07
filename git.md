@@ -1,3 +1,4 @@
+我是主分支 master
 git init 初始化仓库
 git clone 克隆/赋值
 git add . 添加到暂存区
