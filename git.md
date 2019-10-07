@@ -5,5 +5,8 @@ git commit -m '描述' 描述
 git status 查看当前分支状态
 git remote add origin url 关联远程仓库
 git remote 查看远程仓库的信息
-
+git remote rm origin 清除origin链接
+git push origin master push到origin的分支 master
+git branch 查看本地分支
+git branch --all 查看本地及远程所有分支
 我们都是web精英
